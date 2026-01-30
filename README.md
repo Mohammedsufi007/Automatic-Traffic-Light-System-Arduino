@@ -1,6 +1,9 @@
 Automatic-Traffic-Light-System-Arduino
 An Arduino-based automatic traffic light control system using sensor-based vehicle detection to optimize traffic flow.
 
+Note: This project was developed as an academic prototype to demonstrate
+traffic signal automation logic using Arduino and sensors.
+
 🚦 Automatic Traffic Light System using Arduino
 
 An Arduino-based automatic traffic light control system designed to improve traffic flow by reducing manual intervention.  
