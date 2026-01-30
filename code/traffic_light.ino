@@ -1,3 +1,14 @@
+Component       Arduino Pin
+
+Road A Red      2
+Road A Yellow   3
+Road A Green    4
+Road B Red      5
+Road B Yellow   6
+Road B Green    7
+IR Sensor A     8
+IR Sensor B     9
+  
 // Road A Traffic Lights
 int redA = 2;
 int yellowA = 3;
